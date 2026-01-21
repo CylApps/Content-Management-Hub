@@ -1,4 +1,56 @@
-# CylApps
+<!-- ========================= -->
+<!--           CMH             -->
+<!-- ========================= -->
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="docs/images/cmh-logo-horizontal-dark.svg">
+    <img alt="CylApps Content Management Hub" src="docs/images/cmh-logo-horizontal.svg" width="420">
+  </picture>
+</p>
+
+
+<h1 align="center">CMH Uploader Component</h1>
+
+<p align="center">
+  <strong>Reusable • Secure • Configurable Upload UI</strong><br/>
+  Microsoft Power Platform Component Framework (PCF)
+</p>
+
+<p align="center">
+  <a href="#overview">Overview</a> •
+  <a href="#objective">Objective</a> •
+  <a href="#core-principles">Core Principles</a> •
+  <a href="#component-model">Component Model</a> •
+  <a href="#runtime-upload-flow">Upload Flow</a> •
+  <a href="#code-components">Code Components</a> •
+  <a href="#build-and-deploy">Build & Deploy</a> •
+  <a href="#final-outcome">Outcome</a>
+</p>
+
+---
+
+## Badges
+![Platform](https://img.shields.io/badge/platform-Power%20Platform-blue)
+![PCF](https://img.shields.io/badge/component-PCF-success)
+![Language](https://img.shields.io/badge/language-TypeScript-informational)
+![UI](https://img.shields.io/badge/UI-custom%20uploader-green)
+![Security](https://img.shields.io/badge/security-server--side%20enforced-critical)
+
+---
+
+## Table of Contents
+- [Overview](#overview)
+- [1️⃣ Objective](#1️⃣-objective)
+- [2️⃣ Core Principles](#2️⃣-core-principles)
+- [3️⃣ Component Model](#3️⃣-component-model)
+- [4️⃣ Runtime Upload Flow](#4️⃣-runtime-upload-flow)
+- [5️⃣ Code Components](#5️⃣-code-components)
+- [6️⃣ Build & Deploy](#6️⃣-build--deploy)
+- [🔚 Final Outcome](#-final-outcome)
+
+---
+
 ## Enterprise Content & Licensing Solutions for Microsoft Power Platform
 
 **Secure content. Enforceable licensing. Built for enterprise scale.**
